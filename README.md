@@ -8,10 +8,43 @@ The full article is published on **DEV.to** and walks through Excel features com
 ---
 
 ## 📝 Published Article
-Read the full article here:  
-👉 [https://dev.to/your-username/ms-excel-for-data-analytics-a-beginners-guide](https://dev.to/mariam_turnesh/ms-excel-for-data-analytics-a-beginners-guide-2fa3)
-
+Read the full article here:  https://dev.to/mariam_turnesh/ms-excel-for-data-analytics-a-beginners-guide-2fa3 
 ---
+
+## 🧰 Skills & Concepts Covered
+
+- **Logical Functions**: IF, AND, OR, NOT  
+- **Text Functions**: TRIM, UPPER, LOWER, CONCATENATE, LEFT, RIGHT  
+- **Date Functions**: TODAY, NOW, YEAR, MONTH, DATE, DATEDIF  
+- **Pivot Tables**: Data summarization and trend analysis  
+- **Pivot Charts**: Visualizing insights  
+- **Slicers**: Interactive filtering and dashboards  
+
+## 🎯 Objectives
+
+- Clean and standardize inconsistent data  
+- Automate simple decision-making using formulas  
+- Analyze large datasets efficiently  
+- Build clear and interactive reports  
+
+## 🛠 Tools Used
+
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Slicers and built-in Excel functions  
+
+## 📁 Repository Contents
+
+- Excel workbook(s) containing analysis  
+- A **ReadMe sheet** inside the Excel file outlining:
+  - Data issues identified  
+  - Cleaning rules applied  
+  - Assumptions made  
+
+## 🚀 Key Takeaway
+
+This project shows that you don’t need advanced tools to perform effective data analysis. With the right Excel fundamentals, you can confidently solve most real-world data problems.
+
 
 ## 🎯 Objectives
 - Explain Excel’s role in data analytics
