@@ -88,10 +88,7 @@ This project shows that you don’t need advanced tools to perform effective dat
 
 ---
 
-## ✅ Status
-✔️ Completed and published
+## Author
+Mariam Turnesh
 
----
-
-## 📬 Contact
-If you have feedback or questions, feel free to reach out via GitHub or DEV.
+Data Science, Analytics, and AI | Business Intelligence | Dashboard Design | LuxDevHQ
